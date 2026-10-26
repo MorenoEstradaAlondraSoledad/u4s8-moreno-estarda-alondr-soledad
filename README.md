@@ -1,1 +1,1 @@
-El proyecto contiene una app web donde puedes solicitar servicios, en esta agregas, eliminas y modificas los servicios. A lo largo de las 4 unidades utilizamos herramientas como: Django, tailwindcss, HTML, entre otras herrmaientas.
+El proyecto contiene una app web donde puedes solicitar servicios, en esta agregas, eliminas y modificas los servicios. A lo largo de las 4 unidades utilizamos herramientas como: Django, tailwind css, HTML, MySQL EN LA NUBE, Render y Git + GitHub.
